@@ -7,7 +7,7 @@ Threat Modeling is a structured methodology that is frequently used in the field
 ## Threat Models
 
 - [iOS](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/iOS)
-- Android
+- [Android](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/Android)
 
 ## To-Do
 
