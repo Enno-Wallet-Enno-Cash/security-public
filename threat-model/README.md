@@ -9,6 +9,14 @@ Threat Modeling is a structured methodology that is frequently used in the field
 - [iOS](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/iOS)
 - Android
 
+## To-Do
+
+- [ ] Creating and publishing [Attack Tree](https://en.wikipedia.org/wiki/Attack_tree)
+- [ ] Creating and publishing Threat Traceability Matrix
+- [ ] Explaining security measures/mitigations implemented in detail, step by step
+- [ ] Mapping the reports revealed as a result of bug bounty and possible vulnerabilities in the future with the threat model, [OWASP MASVS](https://github.com/OWASP/owasp-masvs) and [SANS Top 25](https://www.sans.org/top25-software-errors/)
+- [ ] Publishing DDD (Detailed Design Document) and SDD (Security Design Document)
+
 ### Resources
 
 - Introducing Enno Wallet Threat Model for Mobile Apps Blog Post
