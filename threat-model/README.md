@@ -19,7 +19,7 @@ Threat Modeling is a structured methodology that is frequently used in the field
 
 ### Resources
 
-- Introducing Enno Wallet Threat Model for Mobile Apps Blog Post
+- Introducing Enno Wallet Threat Model for Mobile Apps [Blog Post](https://blog.ennowallet.com/introducing-enno-wallet-threat-model-for-mobile-apps-22a519df46bc)
 - [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
 - [OWASP Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
