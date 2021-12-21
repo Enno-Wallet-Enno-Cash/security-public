@@ -12,7 +12,7 @@ Coming soon
 
 ## Threat Modeling
 
-Android and iOS Threat Model v1.1 and The Attack Tree has been released. Please check [here](/threat-model).
+Android and iOS Threat Model v1.1 and The Attack Tree have been released. Please check [here](/threat-model).
 
 ## Contact
 
