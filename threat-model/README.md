@@ -14,7 +14,7 @@ Threat Modeling is a structured methodology that is frequently used in the field
 ## To-Do
 
 - [x] Creating and publishing Attack Tree
-- [ ] Creating and publishing Threat Traceability Matrix
+- [x] Creating and publishing Threat Traceability Matrix
 - [ ] Explaining security measures/mitigations implemented in detail, step by step
 - [ ] Mapping the reports revealed as a result of bug bounty and possible vulnerabilities in the future with the threat model, [OWASP MASVS](https://github.com/OWASP/owasp-masvs) and [SANS Top 25](https://www.sans.org/top25-software-errors/)
 - [ ] Publishing DDD (Detailed Design Document) and SDD (Security Design Document)
