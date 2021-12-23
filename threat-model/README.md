@@ -4,11 +4,12 @@
 
 Threat Modeling is a structured methodology that is frequently used in the field of security. The objective is to determine the architecture, processes, and complex processes of the software and to identify its security requirements, threats, and potential vulnerabilities. Not only this, they are added to this diagram after determining the priorities of the threats and weaknesses that may occur in these works and determining the security measures/controls that are to be applied for them.
 
-## Threat Models
+## Threat Models and Components
 
 - [iOS](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/iOS)
 - [Android](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/Android)
 - [Attack Tree](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/Attack%20Tree)
+- [Threat Traceability Matrix](https://github.com/Enno-Wallet-Enno-Cash/security-public/tree/main/threat-model/Threat%20Traceability%20Matrix)
 
 ## To-Do
 
